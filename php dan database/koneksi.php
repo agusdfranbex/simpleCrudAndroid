@@ -1,7 +1,7 @@
 <?php
 	
-	$server		= "localhost"; // sesuaikan alamat server anda
-	$user		= "root"; // sesuaikan user web server anda
+	$server		= "https://bozokteam-agusdfranbex.c9users.io/android_crud"; // sesuaikan alamat server anda
+	$user		= "agusdfranbex"; // sesuaikan user web server anda
 	$password	= ""; // sesuaikan password web server anda
 	$database	= "android_crud"; // sesuaikan database web server anda
 	
